@@ -11,7 +11,7 @@ persist_dir = "ssm_chroma_db"
 vectordb = Chroma(
     persist_directory=persist_dir,
     embedding_function=embedding_model,
-    collection_name="ssm_docs"
+    collection_name="langchain"
 )
 
 # Example usage: retrieve
@@ -37,11 +37,14 @@ prompt = ChatPromptTemplate.from_messages([system_message, human_message])
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
 
-llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
+llm = ChatOpenAI(model_name="gpt-4o", temperature=0)
 
 rag_chain = RetrievalQA.from_chain_type(
     llm=llm,
-    retriever=vectordb.as_retriever(),
+    retriever=vectordb.as_retriever(
+        search_type="similarity",
+        search_kwargs={"k": 3}  # caută 3 cele mai relevante documente
+    ),
     chain_type="stuff",   # or "map_reduce" or "refine"
     chain_type_kwargs={"prompt": prompt},
     return_source_documents=True

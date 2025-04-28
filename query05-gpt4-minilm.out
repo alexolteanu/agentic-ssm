@@ -1,0 +1,98 @@
+```json
+{
+  "subject": "Documentul este despre reglementările privind securitatea și sănătatea în muncă.",
+  "confidence_level": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "Documentul nu specifică anul.",
+  "confidence": 0.2
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "obligatii_angajator": [
+    "prevenirea riscurilor profesionale",
+    "informarea si instruirea lucratorilor",
+    "asigurarea cadrului organizatoric si a mijloacelor necesare securitatii si sanatatii in munca",
+    "adaptarea masurilor la modificarile conditiilor si imbunatatirea situatiilor existente",
+    "implementarea masurilor pe baza principiilor generale de prevenire",
+    "evaluarea riscurilor pentru securitatea si sanatatea lucratorilor, inclusiv la alegerea echipamentelor de munca, a substantelor sau preparatelor chimice utilizate si la amenajarea locurilor de munca",
+    "furnizarea de instructiuni corespunzatoare lucratorilor"
+  ],
+  "nivel_incredere": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "Obligațiile lucrătorilor în domeniul securității și sănătății în muncă nu aduc atingere principiului responsabilității angajatorului.",
+  "confidence": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "sectiune": "SECTIUNEA a 3-a",
+  "nivel_incredere": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "Informația despre amenzi mai mari de 7000 de lei nu este prezentă în documentul furnizat.",
+  "confidence": 0.2
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "In cazul accidentelor de circulatie produse pe drumurile publice, in care printre victime sunt si persoane aflate in indeplinirea unor sarcini de serviciu, organele de politie rutiera sunt implicate.",
+  "confidence": 0.8
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "Echipamentele de protecție obligatorii pe șantier includ echipamente de muncă fără pericol pentru securitatea și sănătatea lucrătorilor și echipamente individuale de protecție. De asemenea, este obligatoriu să se acorde echipament individual de protecție nou în cazul degradării sau pierderii calităților de protecție.",
+  "confidence": 0.8
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "raspuns": "Lucratorii care parasesc locul de munca si/sau o zona periculoasa in cazul unui pericol grav si iminent nu trebuie sa fie prejudiciati si trebuie sa fie protejati impotriva oricaror consecinte negative si nejustificate.",
+  "nivel_incredere": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "Materialele igienico-sanitare se acordă în mod obligatoriu și gratuit de către angajatori.",
+  "confidence": 0.9
+}
+```
+
+--------------------------------------------------
+
