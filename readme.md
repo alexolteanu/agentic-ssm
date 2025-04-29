@@ -1,3 +1,3 @@
 Prototype to test functionality for Agentic SSM.
 
-Using langchain and Chroma
+Using LangGraph (as agent framework) and Chroma (as local vector store)
