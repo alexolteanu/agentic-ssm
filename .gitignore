@@ -1,1 +1,2 @@
-ssm_chroma_db/
+ssm_chroma_db*
+.DS_Store

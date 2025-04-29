@@ -1,10 +1,10 @@
 from langchain_community.vectorstores import Chroma
-from langchain_community.embeddings import SentenceTransformerEmbeddings
+from langchain_openai import OpenAIEmbeddings
 from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 
 
 # Reuse the same embedding model
-embedding_model = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+embedding_model = OpenAIEmbeddings(model="text-embedding-ada-002")
 persist_dir = "ssm_chroma_db"
 
 # Load existing Chroma

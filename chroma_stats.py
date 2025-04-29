@@ -40,4 +40,4 @@ def print_chroma_stats(persist_directory: str, embedding_model_name: str = "sent
 
     print(f"────────────────────────────────────────────────────")
 
-print_chroma_stats("ssm_chroma_db")
+print_chroma_stats("ssm_chroma_db_minilm")
