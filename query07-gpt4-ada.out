@@ -1,0 +1,99 @@
+```json
+{
+  "subject": "Documentul este despre obligațiile angajatorilor în asigurarea condițiilor de securitate și sănătate în muncă, prevenirea accidentelor de muncă și a bolilor profesionale, și activitățile de informare și instruire necesare.",
+  "confidence_level": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "Documentul este din anul 2006.",
+  "confidence": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "obligatii_angajator": [
+    {
+      "descriere": "Angajatorul trebuie să se asigure că lucrătorii din întreprinderi și/sau unități din exterior, care desfășoară activități în întreprinderea și/sau unitatea proprie, au primit instrucțiuni adecvate referitoare la riscurile legate de securitate și sănătate în muncă, pe durata desfășurării activităților.",
+      "articol": "Art. 3, alin. (3)"
+    },
+    {
+      "descriere": "Angajatorul trebuie să asigure securitatea și sănătatea lucrătorilor, ținându-se seama de principiile stabilite prin prezenta lege.",
+      "articol": "Art. 3, alin. (2)"
+    }
+  ],
+  "nivel_incredere": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "Obligațiile lucrătorilor în domeniul securității și sănătății în muncă nu aduc atingere principiului responsabilității angajatorului.",
+  "confidence": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "section": "Articolul 10",
+  "confidence_level": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "Nerespectarea reglementarilor de securitate si sanatate in munca privind fabricarea se sanctioneaza cu amenda de la 5.000 lei la 10.000 lei.",
+  "confidence": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "In cazul accidentelor de circulatie produse pe drumurile publice, in care printre victime sunt si persoane aflate in indeplinirea unor sarcini de serviciu, organele de politie rutiera sunt implicate.",
+  "confidence": 0.8
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "Documentul nu specifică în mod direct care sunt echipamentele de protecție obligatorii pe șantier. Totuși, menționează că angajatorul trebuie să asigure echipamente individuale de protecție și să acorde echipament individual de protecție nou în cazul degradării sau pierderii calităților de protecție.",
+  "confidence": 0.5
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "Lucratorii care parasesc locul de munca si/sau o zona periculoasa in cazul unui pericol grav si iminent nu trebuie sa fie prejudiciati si trebuie sa fie protejati impotriva oricaror consecinte negative si nejustificate.",
+  "confidence": 0.9
+}
+```
+
+--------------------------------------------------
+
+```json
+{
+  "answer": "Materialele igienico-sanitare se acordă în mod obligatoriu și gratuit de către angajatori.",
+  "confidence": 0.9
+}
+```
+
+--------------------------------------------------
+

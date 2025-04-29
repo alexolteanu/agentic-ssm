@@ -1,0 +1,35 @@
+{
+    "answer": "Anul documentului nu este specificat în text.",
+    "confidence": 0.2
+}
+
+--------------------------------------------------
+
+{
+    "answer": "Da, documentul vorbeste despre echipamentele de protectie pe santier.",
+    "confidence": 0.8
+}
+
+--------------------------------------------------
+
+{
+    "answer": "Angajatorul are obligația de a respecta legislația muncii, de a asigura condiții de muncă sigure și sănătoase, de a plăti salariul la timp, de a încheia un contract de muncă cu angajatul, de a acorda concedii de odihnă și concedii medicale, de a plăti contribuțiile sociale și de a respecta drepturile angajaților prevăzute de lege.",
+    "confidence": 0.9
+}
+
+--------------------------------------------------
+
+{
+    "answer": "Amenzile mai mari de 7000 de lei sunt cele pentru nerespectarea regimului armelor și munițiilor, precum și pentru contrabandă cu țigări și alcool.",
+    "confidence": 0.8
+}
+
+--------------------------------------------------
+
+{
+    "answer": "Echipamentele de protecție obligatorii pe șantier sunt: cască de protecție, ochelari de protecție, mănuși de protecție, încălțăminte de protecție și vestă de protecție.",
+    "confidence": 0.9
+}
+
+--------------------------------------------------
+

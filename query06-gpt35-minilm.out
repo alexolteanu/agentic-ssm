@@ -1,0 +1,79 @@
+{
+    "answer": "Documentul este o lege care reglementeaza securitatea si sanatatea in munca in Romania, aplicabila atat in sectoarele publice, cat si private. Legea impune ca conventiile internationale si contractele bilaterale incheiate de persoane juridice romane cu parteneri straini sa cuprinda clauze privind securitatea si sanatatea in munca. De asemenea, documentul stabileste obligatia angajatorului de a informa lucratorii si/sau reprezentantii acestora cu privire la riscurile pentru securitate si sanatate in munca, precum si masurile de prevenire a acestora.",
+    "confidence": 0.9
+}
+
+--------------------------------------------------
+
+{
+    "answer": "Anul documentului nu este specificat in fragmentul citat. Nivelul de incredere este scazut.",
+    "confidence": 0.2
+}
+
+--------------------------------------------------
+
+{
+    "answer": {
+        "obligatii": [
+            "Urmarirea adaptarii masurilor de prevenire a riscurilor profesionale",
+            "Implementarea masurilor de prevenire pe baza principiilor generale de prevenire",
+            "Furnizarea de instructiuni corespunzatoare lucratorilor",
+            "Evaluarea riscurilor pentru securitatea si sanatatea lucratorilor"
+        ]
+    },
+    "confidence": 0.9
+}
+
+--------------------------------------------------
+
+{
+    "answer": "Principiului responsabilitatii angajatorului",
+    "confidence": 0.9
+}
+
+--------------------------------------------------
+
+{
+    "answer": "Stingerea incendiilor este mentionata in Sectiunea a 3-a a documentului.",
+    "confidence": 0.9
+}
+
+--------------------------------------------------
+
+{
+    "answer": "Nu există informații în documentul furnizat referitoare la amenzi mai mari de 7000 de lei.",
+    "confidence": 0.2
+}
+
+--------------------------------------------------
+
+{
+    "answer": "In cazul accidentelor de circulatie produse pe drumurile publice, in care printre victime sunt si persoane aflate in indeplinirea unor sarcini de serviciu, organele de politie rutiera semnaleaza de indata autoritatii de sanatate publica teritoriala sau a municipiului Bucuresti.",
+    "confidence": 0.9
+}
+
+--------------------------------------------------
+
+{
+    "answer": {
+        "echipamente de protectie obligatorii pe santier": "Echipamentele de protectie obligatorii pe santier sunt echipamentele individuale de protectie, care trebuie asigurate de angajatori si acordate gratuit lucratorilor conform Legii 319 din 2006. Aceste echipamente trebuie sa fie fara pericol pentru securitatea si sanatatea lucratorilor, iar in caz de degradare sau pierdere a calitatilor de protectie, angajatorii sunt obligati sa ofere echipament individual de protectie nou.",
+        "nivel incredere": 0.9
+    }
+}
+
+--------------------------------------------------
+
+{
+    "answer": "Lucratorii care, in cazul unui pericol grav si iminent, parasesc locul de munca si/sau o zona periculoasa nu trebuie sa fie prejudiciati si trebuie sa fie protejati impotriva oricaror consecinte negative si nejustificate pentru acestia.",
+    "confidence_level": 1
+}
+
+--------------------------------------------------
+
+{
+    "answer": "Angajatorii ofera materialele igienico-sanitare in mod obligatoriu si gratuit.",
+    "confidence": 0.9
+}
+
+--------------------------------------------------
+

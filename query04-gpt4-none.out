@@ -1,0 +1,70 @@
+{
+  "Answer": "Lipsă de informații",
+  "Confidence": 0
+}
+
+--------------------------------------------------
+
+{
+  "Answer": "Nu pot răspunde la această întrebare, deoarece nu mi-a fost furnizat niciun document PDF pentru a extrage informații.",
+  "Confidence": 0
+}
+
+--------------------------------------------------
+
+{
+  "answer": "Documentul nu furnizează informații despre obligațiile angajatorului în contextul prezentei legi.",
+  "confidence": 0.2
+}
+
+--------------------------------------------------
+
+{
+  "answer": "Lipsesc informațiile necesare pentru a răspunde la această întrebare în documentul PDF furnizat.",
+  "confidence": 0.2
+}
+
+--------------------------------------------------
+
+{
+  "answer": "Informația nu este disponibilă în documentul PDF",
+  "confidence": 0.2
+}
+
+--------------------------------------------------
+
+{
+  "Answer": "Nu am acces la documentul PDF pentru a putea răspunde la întrebarea dumneavoastră.",
+  "Confidence": 0.1
+}
+
+--------------------------------------------------
+
+{
+  "Answer": "Informația nu este disponibilă în documentul PDF furnizat.",
+  "Confidence": 0.2
+}
+
+--------------------------------------------------
+
+{
+  "Answer": "Informația nu este disponibilă în documentul PDF furnizat.",
+  "Confidence": 0.2
+}
+
+--------------------------------------------------
+
+{
+  "Answer": "Informația nu este disponibilă în documentul PDF furnizat.",
+  "Confidence": 0.2
+}
+
+--------------------------------------------------
+
+{
+  "answer": "Informația nu este disponibilă în documentul PDF",
+  "confidence": 0.2
+}
+
+--------------------------------------------------
+
